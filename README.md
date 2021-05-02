@@ -11,8 +11,8 @@ Ten projekt ma na celu poznanie narzędzia jakim jest Git
 
 ## Technologies
 Projekt stworzono przy pomocy:
-**HTML**
-**Git**
+* **HTML**
+* **Git**
 
 ## Tools
 Cały projekt napisano przy pomocy:

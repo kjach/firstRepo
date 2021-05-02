@@ -5,7 +5,6 @@ Zabawa z gitem!
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Tools](#tools)
-* [Example](#przykładowa-aplikacja)
 
 ## General info
 Ten projekt ma na celu poznanie narzędzia jakim jest Git
